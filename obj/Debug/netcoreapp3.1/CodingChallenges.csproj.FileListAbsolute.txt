@@ -1,0 +1,13 @@
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.exe
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.deps.json
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.runtimeconfig.json
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.runtimeconfig.dev.json
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.dll
+C:\Users\goods\source\repos\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.pdb
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.csprojAssemblyReference.cache
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.AssemblyInfoInputs.cache
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.AssemblyInfo.cs
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.dll
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.pdb
+C:\Users\goods\source\repos\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.genruntimeconfig.cache
